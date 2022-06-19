@@ -1,8 +1,9 @@
 # Curso de Javascript [40 Horas]
 
-### Neste repositório ficará meus códigos
+### Neste repositório ficará meus códigos em relação ao curso de javascript do "Curso em video"
+<br>
 
-| Em andamento | [Link][] |
+| Link do curso | [Em andamento][] |
 | --- | --- |
 
-[Link]: https://www.cursoemvideo.com/curso/javascript/
+[Em andamento]: https://www.cursoemvideo.com/curso/javascript/
