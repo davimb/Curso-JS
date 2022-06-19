@@ -1,8 +1,8 @@
 function carregar () {
-    var msg = window.document.getElementById('mensagem')
-    var img = window.document.getElementById('imagem')
-    var data = new Date()
-    var hora = data.getHours()
+    let msg = window.document.getElementById('mensagem')
+    let img = window.document.getElementById('imagem')
+    let data = new Date()
+    let hora = data.getHours()
     msg.innerHTML = `Agora são exatamente ${hora} horas.`
     if (hora >= 5 && hora <= 12) {
         img.src = 'manha.png'

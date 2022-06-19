@@ -1,14 +1,14 @@
 function verificar () {
-    var data = new Date()
-    var year = data.getFullYear()
-    var ano = document.getElementById('year')
-    var result = document.getElementById('result')
+    let data = new Date()
+    let year = data.getFullYear()
+    let ano = document.getElementById('year')
+    let result = document.getElementById('result')
     if (ano.value > year || ano.value.length == 0) {
         alert('[ERRO] Ano inválido')
     }
     else {
-        var sexo = document.getElementsByName('radiosex')
-        var idade = year - Number(ano.value)
+        let sexo = document.getElementsByName('radiosex')
+        let idade = year - Number(ano.value)
         if (sexo[0].checked) {
             result.innerHTML = 'Homem'
         }
