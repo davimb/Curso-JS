@@ -6,4 +6,4 @@
 | Link do curso | [Concluído][] |
 | --- | --- |
 
-[Em andamento]: https://www.cursoemvideo.com/curso/javascript/
+[Concluído]: https://www.cursoemvideo.com/curso/javascript/
